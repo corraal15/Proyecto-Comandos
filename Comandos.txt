@@ -1,0 +1,15 @@
+Aqui tienes los comandos utilizados en git:
+-git init                                       inicia git
+-git add (archivo)                              añade archivo a git
+-git commit -m (nombre del commit)             guarda el commit(actualizacion de los archivos) en local
+-git branch -M main                            paso obligatorio al conectarse a git
+-git remote add origin (link del proyecto)    conecta el proyecto a github
+-git push -u origin main                      obligatorio al hacer el primer push
+-git push                                    envia el commit a github
+-git status                                  ver estatus de git
+
+Aqui tienes los comandos de cmd:
+-mkdir (nombre)                  crea un nuevo directorio
+-cd (nombre)                      accede a un directorio
+-cd ..                            vuelve al directorio anterior
+-rmdir (nombre)                  borra un directorio

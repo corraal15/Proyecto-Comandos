@@ -1,7 +1,0 @@
-"archivo nuevo" 
-
-hola,prueba para error
-=======
-hola,prueba
-tienes que fallar
-
