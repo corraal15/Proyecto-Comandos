@@ -13,3 +13,5 @@ Aqui tienes los comandos de cmd:
 -cd (nombre)                      accede a un directorio
 -cd ..                            vuelve al directorio anterior
 -rmdir (nombre)                  borra un directorio
+-dir                              te muestra los archivos del directorio
+-dir /a:h                        muestra todos hasta los ocultos
