@@ -1,7 +1,7 @@
 "archivo nuevo" 
-<<<<<<< HEAD
+
 hola,prueba para error
 =======
 hola,prueba
 tienes que fallar
->>>>>>> 06cc715494518b71ad12b758aff3b4067056b7c7
+
