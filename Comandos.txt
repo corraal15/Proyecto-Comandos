@@ -1,5 +1,5 @@
 Aqui tienes los comandos utilizados en git:
--git init                                       inicia git
+-git init                                       inicia git en la carpeta seleccionada
 -git add (archivo)                              añade archivo a git
 -git commit -m (nombre del commit)             guarda el commit(actualizacion de los archivos) en local
 -git branch -M main                            paso obligatorio al conectarse a git
