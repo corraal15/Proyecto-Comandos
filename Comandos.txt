@@ -15,3 +15,4 @@ Aqui tienes los comandos de cmd:
 -rmdir (nombre)                  borra un directorio
 -dir                              te muestra los archivos del directorio
 -dir /a:h                        muestra todos hasta los ocultos
+-echo "# rr" >> README.md      Crear / Contenido / Nombre Archivo
